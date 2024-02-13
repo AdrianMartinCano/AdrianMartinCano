@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋,soy Adrián Martín Cano</h1>
 <h3 align="center">Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)</h3>
-<p align="center">En Colegio La Inmaculada-Padres Escolapios <a href="https://s3.eu-west-3.amazonaws.com/buscocolegio-static-content/assets/28003250/28003250.png" alt="Colegio"> </a></p>
+<p align="center">En Colegio <a href="https://www.escolapiosdegetafe.es/">La Inmaculada-Padres Escolapios</a>  </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=adrianmartincano&label=Profile%20views&color=0e75b6&style=flat" alt="adrianmartincano" /> </p>
 
