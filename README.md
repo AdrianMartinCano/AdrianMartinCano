@@ -12,6 +12,6 @@
 
 <p align="center"> Poco a poco iré dejando aquí los respositorios más relevantes</p>
 <p align="center">
-    <p> Aquí dejo el código del TFG, un buscador de gasolineras por cercanía para aplicaciones móviles:</p>
+    <p align="center"> Aquí dejo el código del TFG, un buscador de gasolineras por cercanía para aplicaciones móviles:</p>
     <a href="https://github.com/AdrianMartinCano/Gas-Path">Repositorio: Gas-Path</a>
 </p>
