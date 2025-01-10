@@ -1,12 +1,15 @@
-<h1 align="center">Hola 👋, soy Adrián Martín Cano</h1>
-<h3 align="center">Titulado en Desarrollo de Aplicaciones Multiplataforma (DAM)</h3>
-<p align="center">En el centro <a href="https://www.escolapiosdegetafe.es/" target="_blank" rel="noopener">La Inmaculada-Padres Escolapios</a></p>
+<h1 align="center">¡Hola, soy Adrián Martín Cano! 👋</h1>
+<h3 align="center">💻 Desarrollador apasionado por la tecnología y el aprendizaje continuo. 💡</h3>
+<p align="center">Recientemente titulado en Desarrollo de Aplicaciones Multiplataforma (DAM), con un interés especial en el desarrollo full stack y un enfoque práctico en la creación de soluciones innovadoras.</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=adrianmartincano&label=Profile%20views&color=0e75b6&style=flat" alt="adrianmartincano" /> </p>
+<p align="center"> 
+    <img src="https://komarev.com/ghpvc/?username=adrianmartincano&label=Profile%20views&color=0e75b6&style=flat" alt="adrianmartincano" /> 
+</p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adrianmartincano" alt="adrianmartincano" /></a> </p>
+---
 
-<h3 align="center">Lenguajes y herramientas que me gustan y he usado:</h3>
+<h3 align="center">🛠️ Tecnologías que manejo:</h3>
+<p align="center">🎯 Estas son algunas de las herramientas y lenguajes con los que he trabajado:</p>
 <p align="center"> 
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
@@ -46,8 +49,35 @@
     </a> 
 </p>
 
-<p align="center"> Poco a poco iré dejando aquí los repositorios más relevantes</p>
+---
 
-<p align="center"> Mi TFG: 
-    <a href="https://github.com/AdrianMartinCano/Gas-Path">Repositorio: Gas-Path</a>
+<h3 align="center">📚 Proyectos destacados:</h3>
+<ul>
+    <li>
+        <strong><a href="https://github.com/AdrianMartinCano/Gas-Path">Gas-Path</a></strong>: Un buscador de gasolineras en función de tu ubicación y también por provincias.
+    </li>
+   
+</ul>
+<p align="center">⭐ ¡Explora mis repositorios para ver más! ⭐</p>
+
+---
+
+<h3 align="center">📈 Mis estadísticas de GitHub:</h3>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=AdrianMartinCano&show_icons=true&theme=radical" alt="Adrián Martín Cano's GitHub Stats" />
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianMartinCano&layout=compact&theme=radical" alt="Top Langs" />
 </p>
+
+---
+
+<h3 align="center">📫 Cómo contactarme:</h3>
+<p align="center">
+    <a href="mailto:amc.1994.mca@gmail.com">📧 Email</a>
+    <br>
+    <a href="https://www.linkedin.com/in/adrian-martin-cano/">🔗 LinkedIn</a>
+</p>
+
+---
+
+<p align="center">🌟 ¡Gracias por visitar mi perfil! 🌟</p>
