@@ -3,11 +3,8 @@
 <p align="center">Recientemente titulado en Desarrollo de Aplicaciones Multiplataforma (DAM), con un interés especial en el desarrollo full stack y un enfoque práctico en la creación de soluciones innovadoras.</p>
 
 <p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=AdrianMartinCano&label=Profile%20views&color=0e75b6&style=flat" alt="adrianmartincano" /> 
-    <br>
-    ![Visitas](https://visitor-badge.laobi.icu/badge?page_id=AdrianMartinCano.AdrianMartinCano)
+    <img src="https://komarev.com/ghpvc/?username=adrianmartincano&label=Profile%20views&color=0e75b6&style=flat" alt="adrianmartincano" /> 
 </p>
----
 
 <h3 align="center">🛠️ Tecnologías que manejo:</h3>
 <p align="center">🎯 Estas son algunas de las herramientas y lenguajes con los que he trabajado:</p>
