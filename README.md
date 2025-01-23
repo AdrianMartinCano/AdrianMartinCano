@@ -60,6 +60,14 @@
 
 ---
 
+<div align="center">
+  <h2>🐍 Mis contribuciones 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AdrianMartinCano/AdrianMartinCano/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
 <h3 align="center">📈 Mis estadísticas de GitHub:</h3>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=AdrianMartinCano&show_icons=true&theme=radical" alt="Adrián Martín Cano's GitHub Stats" />
