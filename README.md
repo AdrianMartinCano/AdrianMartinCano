@@ -51,11 +51,11 @@
         <em>Herramientas:</em> Java, Android, SQLittle.
     </li>
     <li>
-        <strong><a href="https://github.com/AdrianMartinCano/EscolapiosInversores">Gas-Path</a></strong>: Puedes comprar y vender las acciones de una empresa
+        <strong><a href="https://github.com/AdrianMartinCano/EscolapiosInversores">Compra-Venta Acciones</a></strong>: Puedes comprar y vender las acciones de una empresa
         <em>Herramientas:</em> Java, SQL.
     </li>
      <li>
-        <strong><a href="https://github.com/AdrianMartinCano/MODULOPC">Gas-Path</a></strong>: Módulo para el CRM de Odoo
+        <strong><a href="https://github.com/AdrianMartinCano/MODULOPC">Módulo de Odoo</a></strong>: Módulo para el CRM de Odoo
         <em>Herramientas:</em> Python.
     </li>
   
