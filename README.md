@@ -46,6 +46,18 @@
         <strong><a href="https://github.com/AdrianMartinCano/Gas-Path">Gas-Path</a></strong>: Un buscador de gasolineras que utiliza APIs de geolocalización para encontrar las estaciones más cercanas.  
         <em>Herramientas:</em> Java, JetPack Compose, APIs REST.
     </li>
+    <li>
+        <strong><a href="https://github.com/AdrianMartinCano/GestorCriptomonedas">Gestor de Criptomonedas</a></strong>: Un proyecto que simula la compra-venta de criptomonedas
+        <em>Herramientas:</em> Java, Android, SQLittle.
+    </li>
+    <li>
+        <strong><a href="https://github.com/AdrianMartinCano/EscolapiosInversores">Gas-Path</a></strong>: Puedes comprar y vender las acciones de una empresa
+        <em>Herramientas:</em> Java, SQL.
+    </li>
+     <li>
+        <strong><a href="https://github.com/AdrianMartinCano/MODULOPC">Gas-Path</a></strong>: Módulo para el CRM de Odoo
+        <em>Herramientas:</em> Python.
+    </li>
   
 </ul>
 <p align="center">⭐ ¡Explora mis repositorios para ver más! ⭐</p>
