@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola!+👋;+Soy+Adrián+Martín!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=¡Hola a todos!+👋;+Soy+Adrián+Martín!;" />
 </h1>
 
 <h3 align="center">💻 Desarrollador Full Stack apasionado por la tecnología y el aprendizaje continuo. 💡</h3>
