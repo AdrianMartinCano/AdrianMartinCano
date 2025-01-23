@@ -45,9 +45,7 @@
         <strong><a href="https://github.com/AdrianMartinCano/Gas-Path">Gas-Path</a></strong>: Un buscador de gasolineras que utiliza APIs de geolocalización para encontrar las estaciones más cercanas.  
         <em>Herramientas:</em> Angular, Node.js, APIs REST.
     </li>
-    <li>
-        <strong><a href="https://github.com/AdrianMartinCano/Tu-Proyecto-Destacado">Tu-Proyecto-Destacado</a></strong>: Breve descripción de otro proyecto (puedes añadirlo aquí).
-    </li>
+  
 </ul>
 <p align="center">⭐ ¡Explora mis repositorios para ver más! ⭐</p>
 
