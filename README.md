@@ -2,9 +2,7 @@
 <h3 align="center">💻 Desarrollador Full Stack apasionado por la tecnología y el aprendizaje continuo. 💡</h3>
 <p align="center">Titulado en Desarrollo de Aplicaciones Multiplataforma (DAM), enfocado en crear soluciones innovadoras con tecnologías modernas.</p>
 
-<p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=adrianmartincano&label=Profile%20views&color=0e75b6&style=flat" alt="adrianmartincano" /> 
-</p>
+
 
 ---
 
@@ -63,7 +61,10 @@
     <img src="https://github-readme-stats.vercel.app/api?username=AdrianMartinCano&show_icons=true&theme=tokyonight" alt="Adrián Martín Cano's GitHub Stats" />
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianMartinCano&layout=compact&theme=tokyonight" alt="Top Langs" />
+    <br>
+    <img src="https://komarev.com/ghpvc/?username=adrianmartincano&label=Profile%20views&color=0e75b6&style=flat" alt="adrianmartincano" />
 </p>
+
 
 ---
 
