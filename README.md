@@ -43,7 +43,7 @@
 <ul>
     <li>
         <strong><a href="https://github.com/AdrianMartinCano/Gas-Path">Gas-Path</a></strong>: Un buscador de gasolineras que utiliza APIs de geolocalización para encontrar las estaciones más cercanas.  
-        <em>Herramientas:</em> Angular, Node.js, APIs REST.
+        <em>Herramientas:</em> Java, JetPack Compose, APIs REST.
     </li>
   
 </ul>
