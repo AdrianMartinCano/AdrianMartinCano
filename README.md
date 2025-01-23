@@ -47,16 +47,16 @@
         <em>Herramientas:</em> Java, JetPack Compose, APIs REST.
     </li>
     <li>
-        <strong><a href="https://github.com/AdrianMartinCano/GestorCriptomonedas">Gestor de Criptomonedas</a></strong>: Un proyecto que simula la compra-venta de criptomonedas
+        <strong><a href="https://github.com/AdrianMartinCano/GestorCriptomonedas">Gestor de Criptomonedas</a></strong>: Simulador de compra-venta de criptomonedas con registro de balances.
         <em>Herramientas:</em> Java, Android, SQLittle.
     </li>
     <li>
-        <strong><a href="https://github.com/AdrianMartinCano/EscolapiosInversores">Compra-Venta Acciones</a></strong>: Puedes comprar y vender las acciones de una empresa
+        <strong><a href="https://github.com/AdrianMartinCano/EscolapiosInversores">Compra-Venta Acciones</a></strong>: Gestión de transacciones de acciones con reportes y cálculos automatizados.
         <em>Herramientas:</em> Java, SQL.
     </li>
      <li>
-        <strong><a href="https://github.com/AdrianMartinCano/MODULOPC">Módulo de Odoo</a></strong>: Módulo para el CRM de Odoo
-        <em>Herramientas:</em> Python.
+        <strong><a href="https://github.com/AdrianMartinCano/MODULOPC">Módulo de Odoo</a></strong>: Extensión personalizada para el CRM de Odoo con automatización de procesos.
+        <em>Herramientas:</em> Python, Odoo.
     </li>
   
 </ul>
