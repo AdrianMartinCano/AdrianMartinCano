@@ -13,7 +13,7 @@
 <p align="center">🎯 Trabajo principalmente con las siguientes herramientas y lenguajes:</p>
 <ul>
     <li><strong>Frontend:</strong> HTML, CSS, JavaScript, Angular, TypeScript.</li>
-    <li><strong>Backend:</strong> Java, Node.js, MySQL, .NET.</li>
+    <li><strong>Backend:</strong> Java, Node.js, MySQL, Spring.</li>
     <li><strong>Herramientas:</strong> Git, Figma.</li>
 </ul>
 
