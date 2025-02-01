@@ -46,6 +46,14 @@
         <strong><a href="https://github.com/AdrianMartinCano/Gas-Path">Gas-Path</a></strong>: Un buscador de gasolineras que utiliza APIs de geolocalización para encontrar las estaciones más cercanas.  
         <em>Herramientas:</em> Java, JetPack Compose, APIs REST.
     </li>
+      <li>
+        <strong><a href="https://github.com/AdrianMartinCano/keycloud-front">Gestor de contraseñas</a></strong>: Una aplicación que permite a los usuarios almacenar y gestionar contraseñas de forma segura.
+        <em>Herramientas:</em> Angular 16.
+    </li>
+   <li>
+        <strong><a href="https://github.com/AdrianMartinCano/keycloud">Gestor de contraseñas (back end)</a></strong>: Una API para el gestor de contraseñas mencionado anteriormente.
+        <em>Herramientas:</em> Java, Spring, Hibernate, JPA.
+    </li>
     <li>
         <strong><a href="https://github.com/AdrianMartinCano/GestorCriptomonedas">Gestor de Criptomonedas</a></strong>: Simulador de compra-venta de criptomonedas con registro de balances.
         <em>Herramientas:</em> Java, Android, SQLittle.
@@ -58,14 +66,7 @@
         <strong><a href="https://github.com/AdrianMartinCano/MODULOPC">Módulo de Odoo</a></strong>: Extensión personalizada para el CRM de Odoo con automatización de procesos.
         <em>Herramientas:</em> Python, Odoo.
     </li>
-     <li>
-        <strong><a href="https://github.com/AdrianMartinCano/keycloud-front">Gestor de contraseñas</a></strong>: Una aplicación que permite a los usuarios almacenar y gestionar contraseñas de forma segura.
-        <em>Herramientas:</em> Angular 16. Proyecto en construcción aún
-    </li>
-   <li>
-        <strong><a href="https://github.com/AdrianMartinCano/keycloud">Gestor de contraseñas (back end)</a></strong>: Una API para el gestor de contraseñas mencionado anteriormente.
-        <em>Herramientas:</em> Java, Spring, Hibernate, JPA. Proyecto en construcción aún
-    </li>
+   
 </ul>
 <p align="center">⭐ ¡Explora mis repositorios para ver más! ⭐</p>
 
