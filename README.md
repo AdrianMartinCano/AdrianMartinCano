@@ -55,6 +55,10 @@
         <em>Herramientas:</em> Java, Spring, Hibernate, JPA.
     </li>
     <li>
+        <strong><a href="https://github.com/AdrianMartinCano/portfolio/">Portfolio</a></strong>: Una página web que presento como el portfolio.
+        <em>Herramientas:</em> Angular, Taildwindcss .
+    </li>
+    <li>
         <strong><a href="https://github.com/AdrianMartinCano/GestorCriptomonedas">Gestor de Criptomonedas</a></strong>: Simulador de compra-venta de criptomonedas con registro de balances.
         <em>Herramientas:</em> Java, Android, SQLittle.
     </li>
