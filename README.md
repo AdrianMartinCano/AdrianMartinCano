@@ -14,7 +14,7 @@
 <ul>
     <li><strong>Frontend:</strong> HTML, CSS, JavaScript, Angular, TypeScript.</li>
     <li><strong>Backend:</strong> Java, Node.js, MySQL, Spring.</li>
-    <li><strong>Herramientas:</strong> Git, Figma.</li>
+    <li><strong>Herramientas:</strong> Git</li>
 </ul>
 
 <p align="center">
