@@ -97,7 +97,7 @@
     <a href="mailto:amc.1994.mca@gmail.com">
         <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
-    <a href="https://www.linkedin.com/in/adrian-martin-cano/">
+    <a href="https://www.linkedin.com/in/AdrianMartinCano">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
 </p>
