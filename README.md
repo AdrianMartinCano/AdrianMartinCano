@@ -19,8 +19,8 @@ adrian@portfolio:~$ neofetch
   <a href="https://www.linkedin.com/in/adrianmartincano/">
     <img src="https://img.shields.io/badge/LinkedIn-Adri%C3%A1n%20Mart%C3%ADn%20Cano-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:amc.1994.mca@gmail.com">
-    <img src="https://img.shields.io/badge/Email-amc.1994.mca-58a6ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:hello@codeadrianmc.dev">
+    <img src="https://img.shields.io/badge/Email-hello%40codeadrianmc.dev-58a6ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
@@ -78,5 +78,6 @@ APIs / otros  Discord (JDA) · Stripe · Resend · GitHub Packages
 ---
 
 <p align="center">
-  <code>adrian@portfolio:~$ </code> ¿Hablamos? → <a href="https://www.codeadrianmc.dev">www.codeadrianmc.dev</a>
+  ¿Hablamos?<br>
+  <a href="https://www.codeadrianmc.dev"><code>adrian@portfolio:~$ open www.codeadrianmc.dev</code></a>
 </p>
