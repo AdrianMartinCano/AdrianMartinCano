@@ -1,5 +1,11 @@
 <p align="right"><a href="README.md">🇪🇸 Español</a> · <b>🇬🇧 English</b></p>
 
+<p align="center">
+  <a href="https://www.codeadrianmc.dev">
+    <img src="assets/portfolio.gif" alt="Portfolio in action" width="700">
+  </a>
+</p>
+
 ```
 adrian@portfolio:~$ neofetch
 
@@ -22,7 +28,17 @@ adrian@portfolio:~$ neofetch
   <a href="mailto:hello@codeadrianmc.dev">
     <img src="https://img.shields.io/badge/Email-hello%40codeadrianmc.dev-58a6ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <a href="https://www.codeadrianmc.dev/AdrianMartinCano.pdf">
+    <img src="https://img.shields.io/badge/CV-Download-d29922?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV">
+  </a>
 </p>
+
+```
+adrian@portfolio:~$ cat now.txt
+
+Now       Evolving my reusable library ecosystem (Spring Boot + Angular)
+Status    Open to new opportunities
+```
 
 ---
 
@@ -78,6 +94,5 @@ APIs / other  Discord (JDA) · Stripe · Resend · GitHub Packages
 ---
 
 <p align="center">
-  Let's talk?<br>
-  <a href="https://www.codeadrianmc.dev"><code>adrian@portfolio:~$ open www.codeadrianmc.dev</code></a>
+  <code>adrian@portfolio:~$ open <a href="https://www.codeadrianmc.dev">www.codeadrianmc.dev</a>&nbsp;&nbsp;&nbsp;# let's talk?</code>
 </p>
