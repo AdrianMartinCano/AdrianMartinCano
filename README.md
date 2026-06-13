@@ -30,8 +30,15 @@ adrian@portfolio:~$ neofetch
 ```
 adrian@portfolio:~$ cat now.txt
 
-Ahora     Evolucionando mi ecosistema de librerías (Spring Boot + Angular)
-Estado    Abierto a nuevas oportunidades
+Ahora        Evolucionando mi ecosistema de librerías (Spring Boot + Angular)
+Buscando     Que su uso sea aún más eficiente
+A fondo      Angular · Spring Batch · DevOps (deploy, arquitectura)
+Cacharreo    Homelab propio: Docker · Coolify · WireGuard · Cloudflare
+Idiomas      Español (nativo) · Inglés
+Estado       Abierto a nuevas oportunidades
+Café/día     ∞
+Música       a tope mientras programo
+PD           Voy lleno de tatuajes — que no te pille de sorpresa 😉
 ```
 
 ---

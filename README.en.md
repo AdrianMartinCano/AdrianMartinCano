@@ -30,8 +30,15 @@ adrian@portfolio:~$ neofetch
 ```
 adrian@portfolio:~$ cat now.txt
 
-Now       Evolving my reusable library ecosystem (Spring Boot + Angular)
-Status    Open to new opportunities
+Now          Evolving my reusable library ecosystem (Spring Boot + Angular)
+Goal         Making it even more efficient to use
+In depth     Angular · Spring Batch · DevOps (deploy, architecture)
+Homelab      Self-hosted: Docker · Coolify · WireGuard · Cloudflare
+Languages    Spanish (native) · English
+Status       Open to new opportunities
+Coffee/day   ∞
+Music        always on while I code
+PS           Covered in tattoos, just so you're not surprised 😉
 ```
 
 ---
