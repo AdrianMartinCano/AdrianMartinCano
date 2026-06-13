@@ -1,4 +1,4 @@
-<p align="right"><b>🇪🇸 Español</b> · <a href="README.en.md">🇬🇧 English</a></p>
+<p align="right"><a href="README.md">🇪🇸 Español</a> · <b>🇬🇧 English</b></p>
 
 ```
 adrian@portfolio:~$ neofetch
@@ -7,10 +7,10 @@ adrian@portfolio:~$ neofetch
    / \   |  _ \ |  _ \ |_ _|   / \   | \ | |    Role        Full Stack Developer
   / _ \  | | | || |_) | | |   / _ \  |  \| |    Backend     Java · Spring Boot
  / ___ \ | |_| ||  _ <  | |  / ___ \ | |\  |    Frontend    Angular · TypeScript
-/_/   \_\|____/ |_| \_\|___|/_/   \_\|_| \_|    Foco        Producción · banca + cliente real
+/_/   \_\|____/ |_| \_\|___|/_/   \_\|_| \_|    Focus       Production · banking + real client
 ```
 
-**Full Stack Developer** — Java/Spring Boot + Angular. Construyo y mantengo aplicaciones **en producción** (sector bancario y cliente real), del backend al frontend. Me importa que el código se entienda y dure, y casi siempre tengo un proyecto nuevo entre manos.
+**Full Stack Developer** — Java/Spring Boot + Angular. I build and maintain applications **in production** (banking sector and a real client), from backend to frontend. I care about code that's easy to understand and built to last, and I almost always have a new side project on the go.
 
 <p>
   <a href="https://www.codeadrianmc.dev">
@@ -26,26 +26,26 @@ adrian@portfolio:~$ neofetch
 
 ---
 
-## 📌 Proyectos destacados
+## 📌 Featured projects
 
-**[WoW Auction Analyzer](https://subasta.codeadrianmc.dev)** — Plataforma full-stack que analiza la casa de subastas de World of Warcraft, detecta oportunidades de mercado y avisa por Discord en tiempo real.
+**[WoW Auction Analyzer](https://subasta.codeadrianmc.dev)** — Full-stack platform that analyzes the World of Warcraft auction house, detects market opportunities and notifies via Discord in real time.
 `Java` · `Spring Boot` · `Spring Batch` · `Angular` · `Discord (JDA)` · `PostgreSQL`
-🔗 [Demo en vivo](https://subasta.codeadrianmc.dev) · [Repo](https://github.com/AdrianMartinCano/wow-analizer)
+🔗 [Live demo](https://subasta.codeadrianmc.dev) · [Repo](https://github.com/AdrianMartinCano/wow-analizer)
 
-**[Artesanos del Torno](https://artesanosdeltorno.es)** — Web oficial **en producción** de una asociación nacional de artesanos: panel de administración, e-commerce con Stripe y newsletter automática.
-`Producción` · `Stripe` · `E-commerce`
-🔗 [Web en vivo](https://artesanosdeltorno.es) · [Repo](https://github.com/AdrianMartinCano/artesanosdeltorno)
+**[Artesanos del Torno](https://artesanosdeltorno.es)** — Official website **in production** for a national craftsmen association: admin panel, Stripe e-commerce and automated newsletter.
+`Production` · `Stripe` · `E-commerce`
+🔗 [Live site](https://artesanosdeltorno.es) · [Repo](https://github.com/AdrianMartinCano/artesanosdeltorno)
 
-**Ecosistema de librerías compartidas** — Suite de librerías reutilizables (Spring Boot + Angular) publicadas para construir aplicaciones web profesionales en una fracción del tiempo.
-`Spring Boot` · `Angular` · `GitHub Packages` · `Arquitectura`
+**Shared library ecosystem** — Suite of reusable libraries (Spring Boot + Angular) published to build professional web apps in a fraction of the time.
+`Spring Boot` · `Angular` · `GitHub Packages` · `Architecture`
 🔗 [Backend](https://github.com/AdrianMartinCano/libreriasBackend) · [Frontend](https://github.com/AdrianMartinCano/librerias-frontend)
 
-**[Portfolio (terminal)](https://www.codeadrianmc.dev)** — Esta web: frontend Angular con concepto de terminal Linux y API propia en Spring Boot. Multiidioma, prefetch, comandos interactivos.
+**[Portfolio (terminal)](https://www.codeadrianmc.dev)** — This site: Angular frontend with a Linux terminal concept and its own Spring Boot API. Multi-language, prefetch, interactive commands.
 `Angular` · `TypeScript` · `Tailwind` · `Spring Boot`
-🔗 [Web en vivo](https://www.codeadrianmc.dev) · [Front](https://github.com/AdrianMartinCano/portfolio) · [Back](https://github.com/AdrianMartinCano/portfolio-back)
+🔗 [Live site](https://www.codeadrianmc.dev) · [Front](https://github.com/AdrianMartinCano/portfolio) · [Back](https://github.com/AdrianMartinCano/portfolio-back)
 
-**KeyCloud** — Gestor de contraseñas seguro full-stack: cliente Angular y API en Spring Boot.
-`Angular` · `Spring Boot` · `Seguridad`
+**KeyCloud** — Secure full-stack password manager: Angular client and Spring Boot API.
+`Angular` · `Spring Boot` · `Security`
 🔗 [Frontend](https://github.com/AdrianMartinCano/keycloud-front) · [Backend](https://github.com/AdrianMartinCano/keycloud)
 
 ---
@@ -57,9 +57,9 @@ adrian@portfolio:~$ cat stack.txt
 
 Backend       Java · Spring Boot · Spring Batch · JPA / Hibernate
 Frontend      Angular · TypeScript · RxJS · Tailwind CSS
-Datos         PostgreSQL · MariaDB · Oracle
+Data          PostgreSQL · MariaDB · Oracle
 DevOps        Docker · Jenkins · Git · Coolify
-APIs / otros  Discord (JDA) · Stripe · Resend · GitHub Packages
+APIs / other  Discord (JDA) · Stripe · Resend · GitHub Packages
 ```
 
 ---
@@ -78,5 +78,5 @@ APIs / otros  Discord (JDA) · Stripe · Resend · GitHub Packages
 ---
 
 <p align="center">
-  <code>adrian@portfolio:~$ </code> ¿Hablamos? → <a href="https://www.codeadrianmc.dev">www.codeadrianmc.dev</a>
+  <code>adrian@portfolio:~$ </code> Let's talk? → <a href="https://www.codeadrianmc.dev">www.codeadrianmc.dev</a>
 </p>
