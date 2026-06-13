@@ -1,11 +1,5 @@
 <p align="right"><a href="README.md">🇪🇸 Español</a> · <b>🇬🇧 English</b></p>
 
-<p align="center">
-  <a href="https://www.codeadrianmc.dev">
-    <img src="assets/portfolio.gif" alt="Portfolio in action" width="700">
-  </a>
-</p>
-
 ```
 adrian@portfolio:~$ neofetch
 
@@ -63,6 +57,16 @@ Status    Open to new opportunities
 **KeyCloud** — Secure full-stack password manager: Angular client and Spring Boot API.
 `Angular` · `Spring Boot` · `Security`
 🔗 [Frontend](https://github.com/AdrianMartinCano/keycloud-front) · [Backend](https://github.com/AdrianMartinCano/keycloud)
+
+---
+
+## 🖥️ The portfolio in action
+
+<p align="center">
+  <a href="https://www.codeadrianmc.dev">
+    <img src="assets/portfolio.gif" alt="Portfolio in action" width="700">
+  </a>
+</p>
 
 ---
 

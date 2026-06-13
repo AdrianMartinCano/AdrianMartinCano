@@ -1,11 +1,5 @@
 <p align="right"><b>🇪🇸 Español</b> · <a href="README.en.md">🇬🇧 English</a></p>
 
-<p align="center">
-  <a href="https://www.codeadrianmc.dev">
-    <img src="assets/portfolio.gif" alt="Portfolio en acción" width="700">
-  </a>
-</p>
-
 ```
 adrian@portfolio:~$ neofetch
 
@@ -63,6 +57,16 @@ Estado    Abierto a nuevas oportunidades
 **KeyCloud** — Gestor de contraseñas seguro full-stack: cliente Angular y API en Spring Boot.
 `Angular` · `Spring Boot` · `Seguridad`
 🔗 [Frontend](https://github.com/AdrianMartinCano/keycloud-front) · [Backend](https://github.com/AdrianMartinCano/keycloud)
+
+---
+
+## 🖥️ El portfolio en acción
+
+<p align="center">
+  <a href="https://www.codeadrianmc.dev">
+    <img src="assets/portfolio.gif" alt="Portfolio en acción" width="700">
+  </a>
+</p>
 
 ---
 
