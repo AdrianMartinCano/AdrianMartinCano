@@ -7,10 +7,10 @@ adrian@portfolio:~$ neofetch
    / \   |  _ \ |  _ \ |_ _|   / \   | \ | |    Role        Full Stack Developer
   / _ \  | | | || |_) | | |   / _ \  |  \| |    Backend     Java · Spring Boot
  / ___ \ | |_| ||  _ <  | |  / ___ \ | |\  |    Frontend    Angular · TypeScript
-/_/   \_\|____/ |_| \_\|___|/_/   \_\|_| \_|    Foco        Producción · banca + cliente real
+/_/   \_\|____/ |_| \_\|___|/_/   \_\|_| \_|    Foco        Producción · banca + clientes reales
 ```
 
-**Full Stack Developer** — Java/Spring Boot + Angular. Construyo y mantengo aplicaciones **en producción** (sector bancario y cliente real), del backend al frontend. Me importa que el código se entienda y dure, y casi siempre tengo un proyecto nuevo entre manos.
+**Full Stack Developer** — Java/Spring Boot + Angular. Construyo y mantengo aplicaciones **en producción** (sector bancario y clientes reales), del backend al frontend. Me importa que el código se entienda y dure, y casi siempre tengo un proyecto nuevo entre manos.
 
 <p>
   <a href="https://www.codeadrianmc.dev">
@@ -30,8 +30,8 @@ adrian@portfolio:~$ neofetch
 ```
 adrian@portfolio:~$ cat now.txt
 
-Ahora        Evolucionando mi ecosistema de librerías (Spring Boot + Angular)
-Buscando     Que su uso sea aún más eficiente
+Ahora        Agarrao (mi app de gastos de casa) y webs de clientes sobre mis librerías
+Siguiente    Publicar mis librerías en npm y Maven Central, para que las use cualquiera
 A fondo      Angular · Spring Batch · DevOps (deploy, arquitectura)
 Cacharreo    Homelab propio: Docker · Coolify · WireGuard · Cloudflare
 Idiomas      Español (nativo) · Inglés
@@ -45,25 +45,33 @@ PD           Voy lleno de tatuajes — que no te pille de sorpresa 😉
 
 ## 📌 Proyectos destacados
 
+**[Agarrao](https://agarrao.pimon.dev)** — PWA para el gasto de casa: lista de la compra compartida, tickets que se leen solos (PDF o foto), precio por unidad entre supermercados con la marca blanca equivalente, gastos con gráficos y gasolineras por precio.
+`Angular` · `Ionic (PWA)` · `Spring Boot` · `PostgreSQL` · `Flyway` · `Tesseract`
+🔗 [App en vivo](https://agarrao.pimon.dev) · [Repo](https://github.com/AdrianMartinCano/agarrao)
+
+**Ecosistema de librerías compartidas** — 20 librerías Angular y 17 módulos Spring Boot (auth, tienda, CMS, blog, foro, reservas, restauración, eventos…) con los que monto webs de clientes en una fracción del tiempo. En producción en todos mis proyectos.
+`Spring Boot` · `Angular` · `Nx` · `Maven multi-módulo` · `GitHub Actions` · `Arquitectura`
+🔗 [Backend](https://github.com/AdrianMartinCano/libreriasBackend) · [Frontend](https://github.com/AdrianMartinCano/librerias-frontend)
+
+**[La Caja de Latón](https://lacajadelaton.com)** — Web **en producción** de una editorial: venta del libro con Stripe, blog y foro de comunidad, montada sobre mis librerías y desplegada en un VPS con Coolify.
+`Producción` · `Cliente` · `Stripe` · `Angular` · `Spring Boot`
+🔗 [Web en vivo](https://lacajadelaton.com) · código privado (cliente)
+
 **[WoW Auction Analyzer](https://subasta.codeadrianmc.dev)** — Plataforma full-stack que analiza la casa de subastas de World of Warcraft, detecta oportunidades de mercado y avisa por Discord en tiempo real.
 `Java` · `Spring Boot` · `Spring Batch` · `Angular` · `Discord (JDA)` · `PostgreSQL`
 🔗 [Demo en vivo](https://subasta.codeadrianmc.dev) · [Repo](https://github.com/AdrianMartinCano/wow-analizer)
 
-**[Artesanos del Torno](https://artesanosdeltorno.es)** — Web oficial **en producción** de una asociación nacional de artesanos: panel de administración, e-commerce con Stripe y newsletter automática.
-`Producción` · `Stripe` · `E-commerce`
-🔗 [Web en vivo](https://artesanosdeltorno.es) · [Repo](https://github.com/AdrianMartinCano/artesanosdeltorno)
+**Rumbo Fijo** — App interna (PWA) de una empresa de mudanzas, **en producción**: calendario del equipo, cuentas del negocio, avisos push y permisos por rol aplicados en el servidor (el empleado no ve clientes ni precios).
+`Producción` · `Cliente` · `Angular` · `Ionic (PWA)` · `Spring Boot` · `Web Push`
+🔗 [Capturas y arquitectura](https://github.com/AdrianMartinCano/rumbo-fijo-escaparate) · código privado (cliente)
 
-**Ecosistema de librerías compartidas** — Suite de librerías reutilizables (Spring Boot + Angular) publicadas para construir aplicaciones web profesionales en una fracción del tiempo.
-`Spring Boot` · `Angular` · `GitHub Packages` · `Arquitectura`
-🔗 [Backend](https://github.com/AdrianMartinCano/libreriasBackend) · [Frontend](https://github.com/AdrianMartinCano/librerias-frontend)
+**[Artesanos del Torno](https://artesanosdeltorno.es)** — Web oficial **en producción** de una asociación nacional de artesanos: panel de administración, e-commerce con Stripe y newsletter automática.
+`Producción` · `Cliente` · `Stripe` · `E-commerce`
+🔗 [Web en vivo](https://artesanosdeltorno.es) · [Repo](https://github.com/AdrianMartinCano/artesanosdeltorno)
 
 **[Portfolio (terminal)](https://www.codeadrianmc.dev)** — Esta web: frontend Angular con concepto de terminal Linux y API propia en Spring Boot. Multiidioma, prefetch, comandos interactivos.
 `Angular` · `TypeScript` · `Tailwind` · `Spring Boot`
 🔗 [Web en vivo](https://www.codeadrianmc.dev) · [Front](https://github.com/AdrianMartinCano/portfolio) · [Back](https://github.com/AdrianMartinCano/portfolio-back)
-
-**KeyCloud** — Gestor de contraseñas seguro full-stack: cliente Angular y API en Spring Boot.
-`Angular` · `Spring Boot` · `Seguridad`
-🔗 [Frontend](https://github.com/AdrianMartinCano/keycloud-front) · [Backend](https://github.com/AdrianMartinCano/keycloud)
 
 ---
 
@@ -83,9 +91,9 @@ PD           Voy lleno de tatuajes — que no te pille de sorpresa 😉
 adrian@portfolio:~$ cat stack.txt
 
 Backend       Java · Spring Boot · Spring Batch · JPA / Hibernate
-Frontend      Angular · TypeScript · RxJS · Tailwind CSS
-Datos         PostgreSQL · MariaDB · Oracle
-DevOps        Docker · Jenkins · Git · Coolify
+Frontend      Angular · TypeScript · RxJS · Signals · Ionic (PWA) · Tailwind CSS
+Datos         PostgreSQL · MariaDB · Oracle · Flyway
+DevOps        Docker · Jenkins · Git · Coolify · Vercel · Render
 APIs / otros  Discord (JDA) · Stripe · Resend · GitHub Packages
 ```
 
